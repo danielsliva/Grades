@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="kotlin.text.slice(indices)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
